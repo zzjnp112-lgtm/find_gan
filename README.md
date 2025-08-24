@@ -35,7 +35,7 @@ sudo apt install ros-${ROS_DISTRO}-rclpy ros-${ROS_DISTRO}-sensor-msgs \
 克隆到工作空间 | Clone into your ROS 2 workspace:
 
 cd ~/ros2_ws/src
-git clone https://github.com/yourname/pole_detector.git
+git clone 
 
 
 编译 | Build:
