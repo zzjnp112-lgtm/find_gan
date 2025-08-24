@@ -1,5 +1,3 @@
-好👌 那我帮你写一个 **简化版 README（中英文双语）**，适合放在 GitHub 项目主页。
-
 ---
 
 # 🚀 Pole Detection with LiDAR (ROS 2 + Open3D)
